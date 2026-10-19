@@ -1,0 +1,10 @@
+# ORION Sprint 1 — vision baseline
+# torch / torchvision are expected to be installed already (CPU is fine).
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
+scikit-learn>=1.4
+matplotlib>=3.8
+pillow>=10.2
+pyyaml>=6.0
